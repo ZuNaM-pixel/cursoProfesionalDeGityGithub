@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Combinamos git y reactjs.
         </a>
       </header>
     </div>

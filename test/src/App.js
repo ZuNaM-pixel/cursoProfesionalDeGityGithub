@@ -17,6 +17,7 @@ function App() {
         >
           Combinamos git y reactjs.
         </a>
+        <p>Se pudo?</p>
       </header>
     </div>
   );

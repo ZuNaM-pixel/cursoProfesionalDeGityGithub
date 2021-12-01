@@ -19,7 +19,7 @@ function App() {
           Combinamos git y reactjs.
         </a>
         <p>Se pudo?</p>
-        <p>Se recontra pudo pero ahora lo arruinamos xd</p>
+        <p>Se recontra pudo :D</p>
       </header>
     </div>
   );

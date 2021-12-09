@@ -18,6 +18,7 @@ function App() {
         >
           Combinamos git y reactjs.
         </a>
+        <p><img src="imagenes/rtx2060" width="100%"></img></p>
         <p>Se pudo?</p>
         <p>Se recontra pudo :D</p>
       </header>
